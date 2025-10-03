@@ -316,19 +316,6 @@ This document provides a comprehensive overview of all courses offered by Creati
 
 ---
 
-## 💰 Fee Structure
-
-| Course Category | Duration Range | Fee Range (INR) | EMI Options |
-|----------------|----------------|-----------------|-------------|
-| Short Courses | 3-6 months | ₹40,000 - ₹80,000 | Available |
-| Diploma Courses | 8-12 months | ₹1,20,000 - ₹2,50,000 | Available |
-| Advanced Programs | 14-18 months | ₹2,80,000 - ₹4,50,000 | Available |
-| Master Programs | 20-24 months | ₹5,00,000 - ₹7,50,000 | Available |
-
-*Note: Fees may vary based on current promotions and scholarship availability*
-
----
-
 ## 🏆 Certification & Accreditation
 
 - **Industry Recognized Certificates**
